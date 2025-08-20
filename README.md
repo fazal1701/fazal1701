@@ -10,7 +10,7 @@ Results-driven Software Engineer specializing in artificial intelligence and ful
 
 💻 Tech Toolbox
 
-Languages: Python · JavaScript/TypeScript · SQL · C++ · Bash
+Languages: Python · JavaScript/TypeScript · SQL ·
 Frameworks & Libraries: React · Next.js · Node.js · PyTorch · TensorFlow · Hugging Face · LangChain · OpenCV · YOLO · spaCy · Apache Spark · Airflow
 Databases: PostgreSQL · MongoDB
 Cloud & DevOps: AWS · Docker · Kubernetes · Terraform · GitHub Actions
