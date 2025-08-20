@@ -30,4 +30,11 @@ StylistIQ (AI Fashion Assistant): Real-time outfit matching, personalization, an
 
 DesignVista (VR/AR Interior Design): Immersive AR/VR platform for interactive home and office design.
 
+🎯 Certifications (In Progress)
+
+AWS Solutions Architect (Associate)
+
+AWS ML Specialty
+
+CompTIA Security+
 
