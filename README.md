@@ -29,3 +29,5 @@ FlashLearn (AI Flashcard System): Intelligent study platform using NLP and space
 StylistIQ (AI Fashion Assistant): Real-time outfit matching, personalization, and conversational styling guidance.
 
 DesignVista (VR/AR Interior Design): Immersive AR/VR platform for interactive home and office design.
+
+
