@@ -2,7 +2,7 @@ Fazal Bhatti ✦ Software Engineer
 
 📧 Email: fazalbhatti522@gmail.com
 
-🌐 Portfolio: personal-portfolio-six-nu-49.vercel.app
+🌐 Portfolio: https://www.fazalbhattiporfolio.com/
 
 👋 About Me
 
@@ -13,7 +13,7 @@ Results-driven Software Engineer specializing in artificial intelligence and ful
 Languages: Python · JavaScript/TypeScript · SQL ·
 Frameworks & Libraries: React · Next.js · Node.js · PyTorch · TensorFlow · Hugging Face · LangChain · OpenCV · YOLO · spaCy · Apache Spark · Airflow
 Databases: PostgreSQL · MongoDB
-Cloud & DevOps: AWS · Docker · Kubernetes · Terraform · GitHub Actions
+Cloud & DevOps: AWS · Docker · Kubernetes · Terraform · 
 Observability & QA: Prometheus · Grafana · PyTest · Jest · Cypress
 
 🚀 Featured Projects
