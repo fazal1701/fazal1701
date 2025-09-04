@@ -2,7 +2,7 @@ Fazal Bhatti ✦ Software Engineer
 
 📧 Email: fazalbhatti522@gmail.com
 
-🌐 Portfolio: https://www.fazalbhattiporfolio.com
+🌐 Portfolio: https://www.fazalbhattiportfolio.com
 
 👋 About Me
 
