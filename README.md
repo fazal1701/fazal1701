@@ -51,11 +51,6 @@ Stack: Next.js • Prisma • PostgreSQL • TailwindCSS • LangChain • OpenA
 AI platform for clinical trial operations that ingests ClinicalTrials.gov, PubMed, and synthetic EHR to forecast enrollment, identify dropout risks, and detect safety signals. Uses BioBERT for parsing trial protocols into structured cohorts, with forecasting engines and interactive dashboards for multi-site management.
 Stack: React (Next.js) • TypeScript • FastAPI • PostgreSQL + pgvector • AWS • HuggingFace (BioBERT) • MLflow • Prefect • Docker
 
-**🛒 B2B E-Commerce SaaS Platform**
-
-Enterprise SaaS solution enabling suppliers and dealers to manage inventory, process orders, and maintain digital product catalogs. Features role-based workflows, GraphQL APIs, integrated payments & logistics, and cloud-native deployment with CI/CD pipelines for reliability and scalability.
-Stack: TypeScript • React • Node.js • GraphQL • PostgreSQL • Supabase • Docker • AWS
-
 **🎯 Certifications (In Progress)**
 
 AWS Solutions Architect (Associate)
