@@ -6,7 +6,7 @@ Fazal Bhatti ✦ Software Engineer
 
 👋 About Me
 
-Results-driven Software Engineer specializing in artificial intelligence and full-stack development. I design and build innovative technologies that deliver real-world impact, collaborating with cutting-edge teams to shape the future. Passionate about ethical AI, I explore how emerging technologies can transform industries in meaningful and responsible ways. As an AI Solutions Architect and R&D Analyst, I bridge advanced research with scalable system design turning experimental ideas into enterprise-ready solutions.
+I am an AI Solutions Architect specializing in applied machine learning, system design, and research-driven innovation. I bridge the gap between experimental research and real-world applications, transforming ideas into scalable, impactful systems. Motivated by curiosity and problem-solving, I thrive in collaborative environments where analytical rigor and creativity combine to push boundaries, expand possibilities, and deliver meaningful, forward-looking technologies.
 
 **💻 Tech Toolbox**
 
