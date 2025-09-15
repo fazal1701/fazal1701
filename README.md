@@ -17,15 +17,6 @@ Cloud * DevOps Tools: AWS, Azure, Docker,  Kubernetes, Git, Jira
 AI Tools: Cursor, Claude, ChatGPT, V0, Lovable, Bolt
 
 
-**🚀 Portfolio Projects — AI Solutions Architect & R&D Analyst Focus**
-
-Each project showcases applied research (R&D) and scalable solution design (AI Solutions Architecture):
-
-R&D Analyst Lens → experiment design, data pipelines, model evaluation, explainability, compliance.
-
-AI Solutions Architect Lens → multi-tier architecture, cloud infrastructure, scalability, security, and end-to-end ownership.
-
-
 **🫀 Full-Stack Health Optimization App**
 
 AI-driven dashboard that aggregates wearable, clinical, and lifestyle data to forecast and prevent risks across cardiovascular, cancer, neurodegenerative, and metabolic diseases. Includes interactive dashboards with percentile benchmarks, risk profiles, and evidence-based recommendations with HIPAA-aligned privacy controls.
