@@ -22,10 +22,6 @@ AI Tools: Cursor, Claude, ChatGPT, V0, Lovable, Bolt
 AI-driven dashboard that aggregates wearable, clinical, and lifestyle data to forecast and prevent risks across cardiovascular, cancer, neurodegenerative, and metabolic diseases. Includes interactive dashboards with percentile benchmarks, risk profiles, and evidence-based recommendations with HIPAA-aligned privacy controls.
 Stack: Python • Next.js • PostgreSQL • AWS • Docker • TensorFlow • scikit-learn
 
-**🎨 AI Lifestyle & Aesthetic Recommender**
-
-Mobile-first AI platform for capturing individual fashion and interior design preferences. Combines vision models for style detection, recommendation logic with embeddings, and ARKit/ARCore for real-time room or outfit visualization. Integrates cultural cues from social platforms and links to retailers for seamless product discovery.
-Stack: React Native • Python • HuggingFace Transformers • ARKit/ARCore • PostgreSQL • Docker • AWS
 
 **👨‍💼 AI Corporate Training Assistant**
 
