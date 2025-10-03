@@ -1,4 +1,4 @@
-Fazal Bhatti ✦ AI Solutions Architect
+Fazal Bhatti  AI Solutions Architect
 
 📧 Email: fazalbhatti522@gmail.com
 
