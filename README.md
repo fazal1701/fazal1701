@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Fazal Bhatti</h1>
-<h3 align="center">AI Solutions Architect | Machine Learning | Full-Stack Innovation</h3>
+<h3 align="center">AI Solutions Architect | Machine Learning Engineer | </h3>
 
 <p align="center">
   🌐 <a href="https://www.fazalbhattiportfolio.com" target="_blank">Portfolio</a> • 
