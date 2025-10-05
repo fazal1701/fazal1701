@@ -1,42 +1,57 @@
-Fazal Bhatti  AI Solutions Architect
+<h1 align="center">Hey there 👋, I'm Fazal Bhatti</h1>
+<h3 align="center">AI Solutions Architect | Machine Learning | Full-Stack Innovation</h3>
 
-📧 Email: fazalbhatti522@gmail.com
+<p align="center">
+  🌐 <a href="https://www.fazalbhattiportfolio.com" target="_blank">Portfolio</a> • 
+  📧 <a href="mailto:fazalbhatti522@gmail.com">Email Me</a> • 
+  💼 <a href="https://linkedin.com/in/fazalbhatti" target="_blank">LinkedIn</a>
+</p>
 
-🌐 Portfolio: https://www.fazalbhattiportfolio.com
+---
 
-👋 About Me
+### 👨‍💻 About Me
 
-I am an AI Solutions Architect specializing in applied machine learning, system design, and research-driven innovation. I bridge the gap between experimental research and real-world applications, transforming ideas into scalable, impactful systems. Motivated by curiosity and problem-solving, I thrive in collaborative environments where analytical rigor and creativity combine to push boundaries, expand possibilities, and deliver meaningful, forward-looking technologies.
+I’m an **AI Solutions Architect** specializing in **applied machine learning, system design, and research-driven innovation**.  
+My mission is to **bridge the gap between research and real-world deployment**, turning experimental ideas into scalable, impactful technologies.  
 
-**💻 Tech Toolbox**
+I thrive at the intersection of **AI engineering, data science, and full-stack development** — where curiosity meets creativity and architecture meets analytics.
 
-AI Tools: Cursor, Claude, ChatGPT, V0, Bolt, Midjourney, DALL·E, N8N, ElevenLabs
+---
 
-Languages and Frameworks: Python, Java, C, JavaScript, SQL, React, Angular, Node.js, Swift
+### 🧠 Tech Toolbox
 
-Cloud and DevOps Tools: AWS, Azure, Docker, Kubernetes, Git, Jira, Prometheus, Terraform
+**🧩 AI & ML Tools:** Cursor • Claude • ChatGPT • V0 • Bolt • Midjourney • DALL·E • N8N • ElevenLabs  
+**💻 Languages & Frameworks:** Python • Java • C • JavaScript • TypeScript • React • Angular • Node.js • Swift  
+**☁️ Cloud & DevOps:** AWS • Azure • Docker • Kubernetes • Git • Jira • Prometheus • Terraform  
+**📊 Data & Analytics:** Snowflake • Power BI • Tableau • Pandas • NumPy • scikit-learn • TensorFlow
 
-**Full-Stack Health Optimization App**
+---
 
-AI-driven dashboard that aggregates wearable, clinical, and lifestyle data to forecast and prevent risks across cardiovascular, cancer, neurodegenerative, and metabolic diseases. Includes interactive dashboards with percentile benchmarks, risk profiles, and evidence-based recommendations with HIPAA-aligned privacy controls.
-Stack: Python • Next.js • PostgreSQL • AWS • Docker • TensorFlow • scikit-learn
+### 🚀 Featured Projects
 
-**Industry Cap Analysis**
-Aggregated, normalized, and analyzed financial data for 1,500 companies across eight industries to uncover macro- and sector-level trends. Automated KPI pipelines, built interactive dashboards, and enabled executives to benchmark performance in real time.
+| Project | Description | Stack |
+|----------|--------------|--------|
+| 🫀 **Full-Stack Health Optimization App** | AI-driven dashboard aggregating wearable, clinical, and lifestyle data to forecast risks (cardio, cancer, neurodegenerative, metabolic). Includes percentile benchmarking, risk profiles, and HIPAA-aligned privacy controls. | Python • Next.js • PostgreSQL • AWS • Docker • TensorFlow • scikit-learn |
+| 💹 **Industry Cap Analysis** | Automated financial KPI pipelines across 1,500+ companies and 8 industries. Built interactive Tableau dashboards enabling real-time performance benchmarking. | Python • PostgreSQL • Tableau • Pandas • NumPy • AWS • Docker |
+| 🧬 **Clinical Trial Intelligence Platform** | AI platform parsing ClinicalTrials.gov and PubMed data with BioBERT to forecast enrollment, detect safety signals, and manage multi-site trials. | React (Next.js) • FastAPI • PostgreSQL + pgvector • AWS • HuggingFace (BioBERT) • MLflow • Prefect • Docker |
 
-Stack: Python • PostgreSQL • Tableau • Pandas • NumPy • AWS • Docker
+---
 
+### 📜 Certifications (In Progress)
 
-**Clinical Trial Intelligence Platform**
+- ☁️ **AWS Solutions Architect – Associate**  
+- 🤖 **AWS Machine Learning Specialty**  
+- 🔒 **CompTIA Security+**
 
-AI platform for clinical trial operations that ingests ClinicalTrials.gov, PubMed, and synthetic EHR to forecast enrollment, identify dropout risks, and detect safety signals. Uses BioBERT for parsing trial protocols into structured cohorts, with forecasting engines and interactive dashboards for multi-site management.
-Stack: React (Next.js) • TypeScript • FastAPI • PostgreSQL + pgvector • AWS • HuggingFace (BioBERT) • MLflow • Prefect • Docker
+---
 
-**🎯 Certifications (In Progress)**
+### 🌍 Connect with Me
 
-AWS Solutions Architect (Associate)
+<p align="left">
+  <a href="https://linkedin.com/in/fazalbhatti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fazalbhatti522@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.fazalbhattiportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-AWS ML Specialty
-
-CompTIA Security+
+---
 
