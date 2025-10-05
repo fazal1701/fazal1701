@@ -44,6 +44,18 @@ I thrive at the intersection of **AI engineering, data science, and full-stack d
 - 🔒 **CompTIA Security+**
 
 ---
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/HuggingFace_logo.svg" width="45" height="45" alt="Hugging Face"/>
+  <img src="https://avatars.githubusercontent.com/u/63482141?s=200&v=4" width="45" height="45" alt="MLflow"/>
+  <img src="https://avatars.githubusercontent.com/u/64071731?s=200&v=4" width="45" height="45" alt="Prefect"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+</p>
+
+
 
 ### 🌍 Connect with Me
 
