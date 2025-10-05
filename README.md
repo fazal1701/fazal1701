@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Fazal Bhatti</h1>
+<h1 align="center">Fazal Bhatti</h1>
 <h3 align="center">AI Solutions Architect | Machine Learning Engineer | </h3>
 
 <p align="center">
