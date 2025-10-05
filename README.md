@@ -11,8 +11,8 @@ I am an AI Solutions Architect specializing in applied machine learning, system 
 **💻 Tech Toolbox**
 
 AI Tools: Cursor, Claude, ChatGPT, V0, Bolt, Midjourney, DALL·E, N8N, ElevenLabs
-Languages & Frameworks: Python, Java, C, JavaScript, SQL, React, Angular, Node.js, Swift
-Cloud & DevOps Tools: AWS, Azure, Docker, Kubernetes, Git, Jira, Prometheus, Terraform
+Languages and Frameworks: Python, Java, C, JavaScript, SQL, React, Angular, Node.js, Swift
+Cloud and DevOps Tools: AWS, Azure, Docker, Kubernetes, Git, Jira, Prometheus, Terraform
 
 **🫀 Full-Stack Health Optimization App**
 
