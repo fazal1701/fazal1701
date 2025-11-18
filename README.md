@@ -22,7 +22,7 @@ I thrive at the intersection of **AI engineering, data science, and full-stack d
 
 **🧩 AI & ML Tools:** Cursor • Claude • ChatGPT • V0 • Bolt • Midjourney • DALL·E • N8N • ElevenLabs  
 **💻 Languages & Frameworks:** Python • Java • C • JavaScript • TypeScript • React • Angular • Node.js • Swift  
-**☁️ Cloud & DevOps:** AWS • Azure • Docker • Kubernetes • Git • Jira • Prometheus • Terraform  
+**☁️ Cloud & DevOps:** AWS • Azure • Docker • Kubernetes • Git • Jira 
 **📊 Data & Analytics:** Snowflake • Power BI • Tableau • Pandas • NumPy • scikit-learn • TensorFlow
 
 ---
@@ -35,15 +35,6 @@ I thrive at the intersection of **AI engineering, data science, and full-stack d
 | 🧬 **Clinical Trial Intelligence Platform** | AI platform parsing ClinicalTrials.gov and PubMed data with BioBERT to forecast enrollment, detect safety signals, and manage multi-site trials. | React (Next.js) • FastAPI • PostgreSQL + pgvector • AWS • HuggingFace (BioBERT) • MLflow • Prefect • Docker |
 
 ---
-
-### 📜 Certifications (In Progress)
-
-- ☁️ **AWS Solutions Architect – Associate**  
-- 🤖 **AWS Machine Learning Specialty**  
-- 🔒 **CompTIA Security+**
-
----
-
 
 ### 🌍 Connect with Me
 
