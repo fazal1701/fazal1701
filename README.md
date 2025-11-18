@@ -27,15 +27,6 @@ I thrive at the intersection of **AI engineering, data science, and full-stack d
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|----------|--------------|--------|
-| 🫀 **Full-Stack Health Optimization App** | AI-driven dashboard aggregating wearable, clinical, and lifestyle data to forecast risks (cardio, cancer, neurodegenerative, metabolic). Includes percentile benchmarking, risk profiles, and HIPAA-aligned privacy controls. | Python • Next.js • PostgreSQL • AWS • Docker • TensorFlow • scikit-learn |
-| 🧬 **Clinical Trial Intelligence Platform** | AI platform parsing ClinicalTrials.gov and PubMed data with BioBERT to forecast enrollment, detect safety signals, and manage multi-site trials. | React (Next.js) • FastAPI • PostgreSQL + pgvector • AWS • HuggingFace (BioBERT) • MLflow • Prefect • Docker |
-
----
-
 ### 🌍 Connect with Me
 
 <p align="left">
