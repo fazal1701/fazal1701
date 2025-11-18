@@ -2,7 +2,6 @@
 <h3 align="center">AI Solutions Architect | Machine Learning Engineer | </h3>
 
 <p align="center">
-  🌐 <a href="https://www.fazalbhattiportfolio.com" target="_blank">Portfolio</a> • 
   📧 <a href="mailto:fazalbhatti522@gmail.com">Email Me</a> • 
   💼 <a href="https://linkedin.com/in/fazalbhatti" target="_blank">LinkedIn</a>
 </p>
