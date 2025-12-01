@@ -21,7 +21,7 @@ I thrive at the intersection of **AI engineering, data science, and full-stack d
 
 **🧩 AI & ML Tools:** Cursor • Claude • ChatGPT • V0 • Bolt • Midjourney • DALL·E • N8N • ElevenLabs  
 
-**💻 Languages & Frameworks:** Python • Java • C • JavaScript • TypeScript • React • Angular • Node.js • Swift
+**💻 Languages & Frameworks:** Python • Java • C • JavaScript • TypeScript • React/React Native
 
 **☁️ Cloud & DevOps:** AWS • Azure • Docker • Kubernetes • Git • Jira 
 
