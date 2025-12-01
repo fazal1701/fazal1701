@@ -7,14 +7,12 @@
 </p>
 
 ---
+I’m an AI Solutions Architect who specializes in designing, building, and deploying practical AI systems—from early-stage prototypes to production-ready platforms. My work lives at the intersection of machine learning, systems design, and product engineering, where research thinking meets real-world execution.
 
-### 👨‍💻 About Me
+I focus on turning ambiguity into architecture, translating complex ideas into scalable models, clean data pipelines, intuitive interfaces, and measurable business impact. Whether it’s shaping an AI-driven product from scratch or optimizing an existing stack, I bring a mix of technical depth, creative problem-solving, and rapid end-to-end development.
 
-I’m an **AI Solutions Architect** specializing in **applied machine learning, system design, and research-driven innovation**.  
-My mission is to **bridge the gap between research and real-world deployment**, turning experimental ideas into scalable, impactful technologies.  
-
-I thrive at the intersection of **AI engineering, data science, and full-stack development** — where curiosity meets creativity and architecture meets analytics.
-
+Curiosity drives me. Speed defines me.
+And my goal is simple: build AI systems that actually work in the real world
 ---
 
 ### 🧠 Tech Toolbox
