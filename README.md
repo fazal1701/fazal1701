@@ -34,7 +34,6 @@ I thrive at the intersection of **AI engineering, data science, and full-stack d
 <p align="left">
   <a href="https://linkedin.com/in/fazalbhatti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:fazalbhatti522@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.fazalbhattiportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
