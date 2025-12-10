@@ -127,7 +127,7 @@ Below are examples of the types of systems I design (generic and fully NDA-safe)
 
 ## Certifications (In Progress)
 
-- AWS Solutions Architect – Associate  
-- Azure AI Engineer (AI-102)  
+- AWS Solutions Architect  Associate  
+- AWS Machine Learning Associate
 - Databricks Data Engineer Associate  
-- CompTIA Security+  
+- IBM RAG and Agentic AI
