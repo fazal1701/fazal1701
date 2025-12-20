@@ -138,7 +138,7 @@ Each repository includes:
 ## Credentials
 
 - AWS Certified Solutions Architect – Associate  
-- AWS Certified Machine Learning – Specialty  
+- AWS Certified Machine Learning – Associate 
 - Databricks Data Engineer Associate  
 
 
