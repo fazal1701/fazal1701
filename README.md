@@ -2,9 +2,9 @@
 
 **AI Solutions Architect**
 
-fazalbhatti522@gmail.com
+Email:fazalbhatti522@gmail.com
 
-linkedin.com/in/fazalbhatti
+Linkedin:linkedin.com/in/fazalbhatti
 
 
 I design and ship **production-grade AI platforms** that integrate into real products and solve real operational problems.
