@@ -1,133 +1,144 @@
-<h1 align="center">Fazal Bhatti</h1>
-<h3 align="center">AI Solutions Architect • Machine Learning Engineer</h3>
+# Fazal Bhatti
 
-<p align="center">
-  <a href="mailto:fazalbhatti522@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/fazalbhatti" target="_blank">LinkedIn</a>
-</p>
+**AI Solutions Architect · Generative AI Systems · Production ML**
+
+📍 Canada · 📧 fazalbhatti522@gmail.com · 🔗 https://linkedin.com/in/fazalbhatti
 
 ---
 
-## About Me
+I design and ship **production-grade AI platforms** that integrate into real products and solve real operational problems.
 
-I’m an AI Solutions Architect who designs and delivers end-to-end AI systems across multiple industries. My work brings together architecture, applied machine learning, R&D, and product strategy into a unified and practical approach.
+My work spans **system architecture, applied machine learning, and full-stack engineering**—with a focus on clarity, reliability, and systems that can be understood, monitored, and evolved.
 
-I specialize in taking early ideas and shaping them into scalable, well-structured systems. This begins with discovery and planning, where I translate conversations and business requirements into clear architectures, data flows, and implementation plans.
+I specialize in turning vague requirements into **explicit, well-scoped systems**: clear data flows, defined boundaries, known failure modes, and measurable outcomes.  
+The goal is not endless experimentation, but **systems that hold up under production constraints**—latency, cost, correctness, and user trust.
 
-I collaborate closely with clients and teams, guiding technical discovery sessions, clarifying problem spaces, evaluating solution paths, and ensuring alignment across stakeholders. I am comfortable moving between system design, model assessment, and executive-level presentations that support decision-making and long-term planning.
-
-My focus is consistent across all work: building AI systems that are reliable, thoughtfully designed, and aligned with real operational needs.
-
----
-
-## Skills & Technologies
-
-### AI Systems Architecture
-- System diagrams, data flow design, and architectural planning  
-- Lucidchart for system modeling and documentation  
-- API-first design (REST, GraphQL)  
-- Authentication and authorization (JWT, OAuth2)  
-- Caching, performance fundamentals, service boundaries  
-- Experience designing end-to-end architectures for SaaS AI platforms  
-
-### AI & Machine Learning
-- LLM integrations: GPT, Claude, Gemini  
-- Retrieval systems, embeddings, vector search  
-- Prompt engineering and structured output patterns  
-- NLP tasks: summarization, classification, entity extraction  
-- Evaluation workflows, RAG testing, prototype iteration  
-
-### Deployment & Integrations
-- Serverless AI features using AWS Lambda or Azure Functions  
-- Running models efficiently with vLLM or ONNX Runtime  
-- Real-time and batch/async processing workflows  
-- Payment integrations: Stripe, Adyen, Cybersource  
-- Workflow automation using n8n  
-- OCR pipelines followed by LLM-based understanding  
-
-### Cloud & Platforms
-- AWS: Bedrock, Lambda, API Gateway, DynamoDB, S3  
-- Azure: Azure OpenAI, Azure ML  
-- Databricks: Delta Lake, MLflow  
-- Docker and GitHub Actions for CI/CD  
-
-### Data & Databases
-- SQL, PostgreSQL, MySQL, Redis, DynamoDB  
-- Snowflake, Databricks Lakehouse, S3/ADLS  
-- Pandas, NumPy  
-- ETL/ELT, semantic modeling, pipeline design  
-
-### Programming
-- Python, JavaScript, TypeScript, Java  
-- C and C++ (foundational)  
-- Node.js backend patterns  
-- React, Next.js  
-- HTML, CSS, TailwindCSS  
-- UX flows and wireframes (Figma, Lucidchart, FigJam)
-
-### Accessibility & Responsible AI
-- ADA-aware verification workflows  
-- WCAG accessibility fundamentals  
-- Safe prompting and data minimization  
-- PII handling and guardrail planning  
+**Industries:** Financial Services · Healthcare · E-commerce · Retail · Enterprise Operations
 
 ---
 
-## Architecture Samples
+## What I Build
 
-Below are examples of the types of systems I design (generic and fully NDA-safe):
+### Agentic & Multi-Step AI Systems
+Multi-agent workflows with deterministic and probabilistic paths, tool invocation, retrieval integration, state management, and cost-aware routing.
 
-- High-level AI system architecture  
-- Data ingestion and retrieval workflows  
-- Identity and verification flows  
-- RAG and LLM-powered application patterns  
-- Cloud-native deployment layouts  
-
----
-
-## Technologies & Tools
-
-<p>
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-  <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-
-  <!-- Cloud / DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-
-  <!-- Frontend / UI -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-
-  <!-- Design / Architecture Tools -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lucidchart-F9912E?style=for-the-badge&logo=lucidchart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whimsical-5C5CFF?style=for-the-badge&logo=whimsical&logoColor=white"/>
-</p>
+Designed for domains where correctness matters more than autonomy:
+- KYC automation
+- Decision support
+- Document workflows
+- Operational triage
 
 ---
 
-## Certifications (In Progress)
+### Document Intelligence Platforms
+End-to-end document understanding systems:
+- OCR → extraction → validation → routing
+- Confidence scoring and escalation
+- Human-in-the-loop review
 
-- AWS Solutions Architect  Associate  
-- AWS Machine Learning Associate
+Applied to underwriting, claims, legal review, and investment analysis.
+
+---
+
+### Ranking, Retrieval & Recommendation Systems
+Real-time systems combining:
+- Embeddings
+- Behavioral signals
+- Business constraints
+
+Designed for:
+- Personalized feeds
+- Search ranking
+- Discovery and conversion surfaces  
+With evaluation frameworks and controlled experimentation.
+
+---
+
+### Cloud-Native ML Inference
+Production inference systems with:
+- Autoscaling
+- Canary deployments
+- Latency monitoring
+- Rollback strategies
+
+Built to support rapid iteration **without destabilizing production**.
+
+---
+
+### Decision Intelligence & Forecasting
+Feature stores, semantic models, and forecasting pipelines with uncertainty awareness.
+
+Used for:
+- Pricing
+- Risk
+- Planning
+- Executive decision support
+
+---
+
+## Full-Stack AI Product Engineering
+
+I work across **backend, web, and mobile** where AI systems deliver real value.
+
+- **Web:** React / Next.js dashboards, admin tools, AI-driven workflows
+- **Mobile:** React Native / Expo for consumer and internal apps
+- **APIs:** TypeScript & Python services with explicit contracts
+
+Frontend is part of system design—especially where UX impacts trust, adoption, or model effectiveness.
+
+---
+
+## Data & Knowledge Systems
+
+- Vector-based retrieval with hybrid search and reranking
+- Schema design for documents, chunks, metadata, and hierarchy
+- Knowledge graphs for entity resolution and relationship-aware reasoning
+- Graph-backed AI systems for explainability and richer context
+
+---
+
+## Technical Foundation
+
+**Languages:** Python · TypeScript · SQL · Cypher  
+**Frameworks:** FastAPI · Node.js · React · Next.js · React Native  
+**AI Stack:** Azure OpenAI · LangChain · LangGraph · Hybrid RAG  
+**Data:** PostgreSQL · Neo4j · Vector DBs (pgvector, Pinecone, Weaviate)  
+**Cloud:** AWS · Azure · GCP  
+**Infrastructure:** Docker · Kubernetes · Terraform · CI/CD  
+**Observability:** OpenTelemetry · Metrics · Distributed Tracing · Alerting
+
+---
+
+## How I Work
+
+- **Architecture first:** Clear diagrams, data models, explicit tradeoffs
+- **Vertical slices:** Thin end-to-end paths that prove value early
+- **Production discipline:** Known failure modes and observability from day one
+
+---
+
+## Projects & Architecture Examples
+
+Pinned repositories include:
+- Agentic workflow orchestration
+- Real-time multimodal ranking
+- Cloud-native ML inference
+- Enterprise decision intelligence
+- Commerce intelligence platforms
+- Multimodal aesthetic systems
+
+Each repository includes:
+- Architecture documentation
+- Design rationale
+- Tradeoff analysis
+- Implementation patterns
+
+---
+
+## Credentials
+
+- AWS Certified Solutions Architect – Associate  
+- AWS Certified Machine Learning – Specialty  
 - Databricks Data Engineer Associate  
-- IBM RAG and Agentic AI
+
+
