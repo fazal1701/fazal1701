@@ -1,9 +1,10 @@
 # Fazal Bhatti
 
-**AI Solutions Architect · Generative AI Systems · Production ML**
+**AI Solutions Architect
 
-📍 Canada · 📧 fazalbhatti522@gmail.com · 🔗 https://linkedin.com/in/fazalbhatti
+fazalbhatti522@gmail.com
 
+linkedin.com/in/fazalbhatti
 ---
 
 I design and ship **production-grade AI platforms** that integrate into real products and solve real operational problems.
