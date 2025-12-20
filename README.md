@@ -1,6 +1,6 @@
 # Fazal Bhatti
 
-**AI Solutions Architect**
+### AI Solutions Architect**
 
 Email:fazalbhatti522@gmail.com
 
@@ -14,7 +14,7 @@ My work spans **system architecture, applied machine learning, and full-stack en
 I specialize in turning vague requirements into **explicit, well-scoped systems**: clear data flows, defined boundaries, known failure modes, and measurable outcomes.  
 The goal is not endless experimentation, but **systems that hold up under production constraints**—latency, cost, correctness, and user trust.
 
-**Industries:** Financial Services · Healthcare · E-commerce · Retail · Enterprise Operations
+**Industries:** Financial Services & Banking · E-commerce & Retail · Heatlhcare · Hospitality · Consumer Marketplaces
 
 ---
 
