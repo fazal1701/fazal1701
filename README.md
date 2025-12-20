@@ -1,6 +1,6 @@
 # Fazal Bhatti
 
-**AI Solutions Architect
+**AI Solutions Architect**
 
 fazalbhatti522@gmail.com
 
