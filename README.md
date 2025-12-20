@@ -6,13 +6,12 @@ Email:fazalbhatti522@gmail.com
 
 Linkedin:linkedin.com/in/fazalbhatti
 
+I design and ship production-grade AI platforms that integrate into real products and solve real operational problems.
 
-I design and ship **production-grade AI platforms** that integrate into real products and solve real operational problems.
+My work spans system architecture, applied data science, machine learning, and full-stack engineering, with a focus on clarity, reliability, and systems that can be understood, monitored, and evolved.
 
-My work spans **system architecture, applied machine learning, and full-stack engineering**—with a focus on clarity, reliability, and systems that can be understood, monitored, and evolved.
-
-I specialize in turning vague requirements into **explicit, well-scoped systems**: clear data flows, defined boundaries, known failure modes, and measurable outcomes.  
-The goal is not endless experimentation, but **systems that hold up under production constraints**—latency, cost, correctness, and user trust.
+I specialize in turning vague requirements into explicit, well-scoped systems, including clear data flows, defined boundaries, data-driven metrics, known failure modes, and measurable outcomes.
+The goal is not endless experimentation, but systems that hold up under production constraints, such as latency, cost, correctness, and user trust.
 
 **Industries:** Financial Services & Banking · E-commerce & Retail · Heatlhcare · Hospitality · Consumer Marketplaces
 
