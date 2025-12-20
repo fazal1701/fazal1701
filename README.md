@@ -1,19 +1,23 @@
-# Fazal Bhatti
+<h1 align="center">Fazal Bhatti</h1>
+<h3 align="center">AI Solutions Architect • Machine Learning Engineer</h3>
 
-### AI Solutions Architect
+<p align="center">
+  <a href="mailto:fazalbhatti522@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/fazalbhatti" target="_blank">LinkedIn</a>
+</p>
 
-Email:fazalbhatti522@gmail.com
+---
 
-Linkedin:linkedin.com/in/fazalbhatti
+## Overview
 
-I design and ship production-grade AI platforms that integrate into real products and solve real operational problems.
+I design and ship **production-grade AI systems** that integrate into real products and solve real operational problems.
 
-My work spans system architecture, applied data science, machine learning, and full-stack engineering, with a focus on clarity, reliability, and systems that can be understood, monitored, and evolved.
+My work spans **system architecture, applied data science, machine learning, and full-stack engineering**, with a focus on clarity, reliability, and systems that can be understood, monitored, and evolved.
 
-I specialize in turning vague requirements into explicit, well-scoped systems, including clear data flows, defined boundaries, data-driven metrics, known failure modes, and measurable outcomes.
-The goal is not endless experimentation, but systems that hold up under production constraints, such as latency, cost, correctness, and user trust.
+I specialize in turning **ambiguous requirements into explicit systems**—clear data flows, defined boundaries, data-driven metrics, known failure modes, and measurable outcomes.  
+The goal is not experimentation for its own sake, but **systems that hold up under production constraints** such as latency, cost, correctness, and user trust.
 
-**Industries:** Financial Services & Banking · E-commerce & Retail · Heatlhcare · Hospitality · Consumer Marketplaces
+**Industries:** Financial Services & Banking · E-commerce & Retail · Healthcare · Hospitality · Consumer Marketplaces
 
 ---
 
@@ -22,46 +26,63 @@ The goal is not endless experimentation, but systems that hold up under producti
 ### Agentic & Multi-Step AI Systems
 Multi-agent workflows with deterministic and probabilistic paths, tool invocation, retrieval integration, state management, and cost-aware routing.
 
-Designed for domains where correctness matters more than autonomy:
-- KYC automation
-- Decision support
-- Document workflows
-- Operational triage
+Used in domains where **correctness matters more than autonomy**:
+- KYC automation  
+- Decision support  
+- Document workflows  
+- Operational triage  
+
+
+::contentReference[oaicite:0]{index=0}
+
 
 ---
 
 ### Document Intelligence Platforms
 End-to-end document understanding systems:
-- OCR → extraction → validation → routing
-- Confidence scoring and escalation
-- Human-in-the-loop review
+- OCR → extraction → validation → routing  
+- Confidence scoring and escalation  
+- Human-in-the-loop review  
 
 Applied to underwriting, claims, legal review, and investment analysis.
+
+
+::contentReference[oaicite:1]{index=1}
+
 
 ---
 
 ### Ranking, Retrieval & Recommendation Systems
 Real-time systems combining:
-- Embeddings
-- Behavioral signals
-- Business constraints
+- Embeddings  
+- Behavioral signals  
+- Business constraints  
 
 Designed for:
-- Personalized feeds
-- Search ranking
+- Personalized feeds  
+- Search ranking  
 - Discovery and conversion surfaces  
-With evaluation frameworks and controlled experimentation.
+
+Includes evaluation frameworks and controlled experimentation.
+
+
+::contentReference[oaicite:2]{index=2}
+
 
 ---
 
 ### Cloud-Native ML Inference
 Production inference systems with:
-- Autoscaling
-- Canary deployments
-- Latency monitoring
-- Rollback strategies
+- Autoscaling  
+- Canary deployments  
+- Latency monitoring  
+- Rollback strategies  
 
 Built to support rapid iteration **without destabilizing production**.
+
+
+::contentReference[oaicite:3]{index=3}
+
 
 ---
 
@@ -69,76 +90,88 @@ Built to support rapid iteration **without destabilizing production**.
 Feature stores, semantic models, and forecasting pipelines with uncertainty awareness.
 
 Used for:
-- Pricing
-- Risk
-- Planning
-- Executive decision support
+- Pricing  
+- Risk  
+- Planning  
+- Executive decision support  
 
 ---
 
 ## Full-Stack AI Product Engineering
 
-I work across **backend, web, and mobile** where AI systems deliver real value.
+I build end-to-end AI products across **backend, web, and mobile**, focusing on production reliability and real user impact.
 
-- **Web:** React / Next.js dashboards, admin tools, AI-driven workflows
-- **Mobile:** React Native / Expo for consumer and internal apps
-- **APIs:** TypeScript & Python services with explicit contracts
+- **Web:** React and Next.js dashboards, admin surfaces, AI-driven workflows  
+- **Mobile:** React Native and Expo applications for consumer and internal use  
+- **APIs:** TypeScript and Python services with explicit, versioned contracts  
 
-Frontend is part of system design—especially where UX impacts trust, adoption, or model effectiveness.
+Frontend is treated as part of system design, particularly where UX influences trust, adoption, and model performance.
+
+
+::contentReference[oaicite:4]{index=4}
+
 
 ---
 
 ## Data & Knowledge Systems
 
-- Vector-based retrieval with hybrid search and reranking
-- Schema design for documents, chunks, metadata, and hierarchy
-- Knowledge graphs for entity resolution and relationship-aware reasoning
-- Graph-backed AI systems for explainability and richer context
+- Vector-based retrieval with hybrid search and reranking  
+- Schema design for documents, chunks, metadata, and hierarchy  
+- Knowledge graphs for entity resolution and relationship-aware reasoning  
+- Graph-backed AI systems for explainability and richer context  
 
 ---
 
 ## Technical Foundation
 
-**Languages:** Python · TypeScript · SQL · Cypher  
-**Frameworks:** FastAPI · Node.js · React · Next.js · React Native  
-**AI Stack:** Azure OpenAI · LangChain · LangGraph · Hybrid RAG  
-**Data:** PostgreSQL · Neo4j · Vector DBs (pgvector, Pinecone, Weaviate)  
-**Cloud:** AWS · Azure · GCP  
-**Infrastructure:** Docker · Kubernetes · Terraform · CI/CD  
-**Observability:** OpenTelemetry · Metrics · Distributed Tracing · Alerting
+**Languages**  
+Python · TypeScript · SQL · Cypher  
+
+**Frameworks**  
+FastAPI · Node.js · React · Next.js · React Native  
+
+**AI Stack**  
+Azure OpenAI · LangChain · LangGraph · Hybrid RAG  
+
+**Data**  
+PostgreSQL · Neo4j · Vector DBs (pgvector, Pinecone, Weaviate)  
+
+**Cloud & Infrastructure**  
+AWS · Azure · GCP · Docker · Kubernetes · Terraform · CI/CD  
+
+**Observability**  
+OpenTelemetry · Metrics · Distributed Tracing · Alerting  
 
 ---
 
 ## How I Work
 
-- **Architecture first:** Clear diagrams, data models, explicit tradeoffs
-- **Vertical slices:** Thin end-to-end paths that prove value early
-- **Production discipline:** Known failure modes and observability from day one
+- **Architecture first:** clear diagrams, data models, explicit tradeoffs  
+- **Vertical slices:** thin end-to-end paths that prove value early  
+- **Production discipline:** known failure modes and observability from day one  
 
 ---
 
 ## Projects & Architecture Examples
 
 Pinned repositories include:
-- Agentic workflow orchestration
-- Real-time multimodal ranking
-- Cloud-native ML inference
-- Enterprise decision intelligence
-- Commerce intelligence platforms
-- Multimodal aesthetic systems
+- Agentic workflow orchestration  
+- Real-time multimodal ranking  
+- Cloud-native ML inference  
+- Enterprise decision intelligence  
+- Commerce intelligence platforms  
+- Multimodal aesthetic systems  
 
 Each repository includes:
-- Architecture documentation
-- Design rationale
-- Tradeoff analysis
-- Implementation patterns
+- Architecture documentation  
+- Design rationale  
+- Tradeoff analysis  
+- Implementation patterns  
 
 ---
 
 ## Credentials
 
 - AWS Certified Solutions Architect – Associate  
-- AWS Certified Machine Learning – Associate 
+- AWS Certified Machine Learning – Associate  
 - Databricks Data Engineer Associate  
-
-
