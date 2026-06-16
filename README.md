@@ -43,7 +43,7 @@ Full-stack observability for AI workloads, LLM latency tracing, cost attribution
 
 | Principle | How I Apply It |
 |:---|:---|
-| **Production First** | Every system is designed for real workloads — latency budgets, failure modes, and rollback paths are defined upfront. |
+| **Production First** | Every system is designed for real workloads latency budgets, failure modes, and rollback paths are defined upfront. |
 | **Cost-Aware Intelligence** | SLM/LLM routing, semantic caching, and batch inference strategies to optimize token economics at scale. |
 | **Observable by Default** | Datadog APM, custom LLM metrics, and structured logging so AI behavior is debuggable — not a black box. |
 | **Trust & Governance** | Guardrails, PII minimization, escalation workflows, and WCAG-aware interfaces for human-in-the-loop systems. |
