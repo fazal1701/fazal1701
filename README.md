@@ -35,6 +35,8 @@ I architect enterprise AI systems from retrieval-augmented intelligence layers t
 
 I specialize in translating complex AI capabilities into scalable, observable, and governable platforms that engineering teams can operate with confidence. My work spans solution design, cloud architecture, product management, and the operational rigor required to move generative AI from pilot to production.
 
+I design and deploy LLM solutions across leading model families, including **Claude (Anthropic)**, with a focus on safety, evaluation, and enterprise integration patterns.
+
 I bridge **technical architecture**, **product strategy**, and **experience design** so AI products are not only built correctly, but adopted, trusted, and scaled across the enterprise.
 
 > Building intelligence layers that enterprises can trust, scale, and adopt.
@@ -217,6 +219,7 @@ OCR, extraction, validation, and human-in-the-loop review for unstructured docum
 |:---|:---|
 | **Agentic Frameworks** | Advanced multi-agent coordination, memory architectures, and deterministic agent routing |
 | **Azure OpenAI Enterprise** | Private endpoints, content filtering, and enterprise-grade deployment patterns |
+| **Claude Architecture** | Claude-focused solution architecture patterns, evaluation, and production readiness (Certified Architect track) |
 | **LLM Observability** | Datadog LLM Observability, token cost attribution, and quality drift detection |
 | **RAG at Scale** | Hybrid search, contextual compression, and evaluation-driven retrieval optimization |
 | **AI Platform Engineering** | Internal developer platforms for self-serve AI capability adoption |
