@@ -4,8 +4,6 @@ I architect **enterprise AI systems** — from retrieval-augmented intelligence 
 
 I specialize in translating complex AI capabilities into **scalable, observable, and governable platforms** that engineering teams can operate with confidence. My work spans solution design, cloud architecture, and the operational rigor required to move generative AI from pilot to production.
 
-> *Building intelligence layers that enterprises can trust, scale, and adopt.*
-
 ---
 
 ## Featured Expertise
