@@ -24,13 +24,13 @@ Hybrid retrieval architectures combining embeddings, vector search, re-ranking, 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Cloud Architecture
+### Cloud Architecture
 Distributed, event-driven AI services across **AWS** and **Azure** — designed for resilience, latency SLAs, and safe rollout patterns.
 
-### 🏢 Enterprise AI Adoption
+### Enterprise AI Adoption
 Governance frameworks, guardrails, PII-aware design, and change management patterns that accelerate org-wide AI maturity.
 
-### 📊 Datadog Observability
+### Datadog Observability
 Full-stack observability for AI workloads, LLM latency tracing, cost attribution, SLO monitoring, and production incident response.
 
 </td>
@@ -39,7 +39,7 @@ Full-stack observability for AI workloads, LLM latency tracing, cost attribution
 
 ---
 
-## 📐 Architecture Principles
+## Architecture Principles
 
 | Principle | How I Apply It |
 |:---|:---|
@@ -52,7 +52,7 @@ Full-stack observability for AI workloads, LLM latency tracing, cost attribution
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Full-stack observability for AI workloads, LLM latency tracing, cost attribution
 <br/>
 
 <details>
-<summary><b>🧠 AI / ML & Data Science</b></summary>
+<summary><b> AI / ML & Data Science</b></summary>
 <br/>
 
 - **Generative AI** — Azure OpenAI, AWS Bedrock, GPT, Claude, and Gemini with intelligent SLM/LLM routing
@@ -95,7 +95,7 @@ Full-stack observability for AI workloads, LLM latency tracing, cost attribution
 </details>
 
 <details>
-<summary><b>📦 Data & Storage</b></summary>
+<summary><b> Data & Storage</b></summary>
 <br/>
 
 - **Databases** — PostgreSQL, MySQL, Redis, DynamoDB
@@ -105,7 +105,7 @@ Full-stack observability for AI workloads, LLM latency tracing, cost attribution
 </details>
 
 <details>
-<summary><b>🎨 Product & Interfaces</b></summary>
+<summary><b> Product & Interfaces</b></summary>
 <br/>
 
 - **Frontend** — React, Next.js, Tailwind CSS for AI-powered product experiences
@@ -116,7 +116,7 @@ Full-stack observability for AI workloads, LLM latency tracing, cost attribution
 
 ---
 
-## 🚀 Selected Architectures
+## Selected Architectures
 
 <table>
 <tr>
@@ -134,13 +134,13 @@ Scalable model serving with monitoring, canary rollouts, and production-grade re
 </td>
 <td width="50%">
 
-**📈 Enterprise Decision Intelligence Engine**  
+** Enterprise Decision Intelligence Engine**  
 Transforms structured and unstructured data into forecasts, KPIs, and executive-level decision support.
 
-**👗 Fashion Multimodal Aesthetic Intelligence**  
+** Fashion Multimodal Aesthetic Intelligence**  
 Image–text embedding systems powering visual similarity, style discovery, and creative recommendations.
 
-**📄 Document Intelligence Pipeline**  
+** Document Intelligence Pipeline**  
 OCR, extraction, validation, and human-in-the-loop review for unstructured document processing at scale.
 
 </td>
@@ -151,7 +151,7 @@ OCR, extraction, validation, and human-in-the-loop review for unstructured docum
 
 ---
 
-## 🔭 Currently Exploring
+## Currently Exploring
 
 | Area | Focus |
 |:---|:---|
@@ -162,26 +162,9 @@ OCR, extraction, validation, and human-in-the-loop review for unstructured docum
 | **AI Platform Engineering** | Internal developer platforms for self-serve AI capability adoption |
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=fazal1701&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazal1701&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fazal1701&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 ---
 
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
