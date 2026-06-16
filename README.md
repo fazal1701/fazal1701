@@ -46,7 +46,7 @@ I specialize in translating complex AI capabilities into **scalable, observable,
 <td width="50%" valign="top">
 
 ### 🏗️ AI Solution Architecture
-End-to-end design of multi-tenant AI platforms — model routing, inference pipelines, evaluation frameworks, and cost-aware scaling strategies.
+End-to-end design of multi-tenant AI platforms model routing, inference pipelines, evaluation frameworks, and cost-aware scaling strategies.
 
 ### 🤖 Agentic AI Systems
 Multi-agent orchestration with tool use, state management, human-in-the-loop gates, and deterministic fallback paths for enterprise workflows.
@@ -64,7 +64,7 @@ Distributed, event-driven AI services across **AWS** and **Azure** — designed 
 Governance frameworks, guardrails, PII-aware design, and change management patterns that accelerate org-wide AI maturity.
 
 ### 📊 Datadog Observability
-Full-stack observability for AI workloads — LLM latency tracing, cost attribution, SLO monitoring, and production incident response.
+Full-stack observability for AI workloads, LLM latency tracing, cost attribution, SLO monitoring, and production incident response.
 
 </td>
 </tr>
@@ -211,18 +211,6 @@ OCR, extraction, validation, and human-in-the-loop review for unstructured docum
 </div>
 
 ---
-
-## 🏆 Certifications
-
-<div align="center">
-
-| Certification | Provider |
-|:---|:---|
-| **AWS Certified Solutions Architect – Associate** | Amazon Web Services |
-| **AWS Certified Machine Learning – Associate** | Amazon Web Services |
-| **Databricks Certified Data Engineer Associate** | Databricks |
-
-</div>
 
 ---
 
