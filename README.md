@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Typing Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=AI+Solutions+Architect;Enterprise+Generative+AI+%26+Agentic+Systems;Cloud-Native+Intelligence+Platforms" alt="Typing SVG" />
 
 <br/>
 
@@ -17,9 +15,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fazalbhatti)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazalbhatti522@gmail.com)
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/certification/)
-[![AWS ML](https://img.shields.io/badge/AWS-Machine_Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/certification/)
-[![Databricks](https://img.shields.io/badge/Databricks-Data_Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/learn/training/certification)
 
 <br/>
 
@@ -31,7 +26,7 @@
 
 ## 👋 About
 
-I architect **enterprise AI systems** — from retrieval-augmented intelligence layers to autonomous agent orchestration — that ship to production with measurable business impact.
+I architect **enterprise AI systems** — from retrieval-augmented intelligence layers to autonomous agent orchestration that ship to production with measurable business impact.
 
 I specialize in translating complex AI capabilities into **scalable, observable, and governable platforms** that engineering teams can operate with confidence. My work spans solution design, cloud architecture, and the operational rigor required to move generative AI from pilot to production.
 
