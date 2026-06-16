@@ -25,7 +25,7 @@ Hybrid retrieval architectures combining embeddings, vector search, re-ranking, 
 <td width="50%" valign="top">
 
 ### Cloud Architecture
-Distributed, event-driven AI services across **AWS** and **Azure** — designed for resilience, latency SLAs, and safe rollout patterns.
+Distributed, event-driven AI services across **AWS** and **Azure** designed for resilience, latency SLAs, and safe rollout patterns.
 
 ### Enterprise AI Adoption
 Governance frameworks, guardrails, PII-aware design, and change management patterns that accelerate org-wide AI maturity.
