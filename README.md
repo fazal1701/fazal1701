@@ -1,10 +1,4 @@
 <div align="center">
-
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1a1a2e&height=120&section=header&text=Fazal%20Bhatti&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header" />
-
 <br/>
 
 ### Designing production-grade AI platforms for enterprise scale
