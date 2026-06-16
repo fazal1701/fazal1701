@@ -1,6 +1,6 @@
 ## About
 
-I architect **enterprise AI systems** — from retrieval-augmented intelligence layers to autonomous agent orchestration that ship to production with measurable business impact.
+I architect **enterprise AI systems** from retrieval-augmented intelligence layers to autonomous agent orchestration that ship to production with measurable business impact.
 
 I specialize in translating complex AI capabilities into **scalable, observable, and governable platforms** that engineering teams can operate with confidence. My work spans solution design, cloud architecture, and the operational rigor required to move generative AI from pilot to production.
 
@@ -12,13 +12,13 @@ I specialize in translating complex AI capabilities into **scalable, observable,
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ AI Solution Architecture
+### AI Solution Architecture
 End-to-end design of multi-tenant AI platforms model routing, inference pipelines, evaluation frameworks, and cost-aware scaling strategies.
 
-### 🤖 Agentic AI Systems
+### Agentic AI Systems
 Multi-agent orchestration with tool use, state management, human-in-the-loop gates, and deterministic fallback paths for enterprise workflows.
 
-### 🔍 RAG & Retrieval Systems
+### RAG & Retrieval Systems
 Hybrid retrieval architectures combining embeddings, vector search, re-ranking, and semantic caching for high-accuracy knowledge systems.
 
 </td>
@@ -83,7 +83,7 @@ Full-stack observability for AI workloads, LLM latency tracing, cost attribution
 </details>
 
 <details>
-<summary><b>☁️ Cloud & Platform Engineering</b></summary>
+<summary><b> Cloud & Platform Engineering</b></summary>
 <br/>
 
 - **AWS** — Bedrock, Lambda, API Gateway, DynamoDB, S3, and event-driven architectures
@@ -122,13 +122,13 @@ Full-stack observability for AI workloads, LLM latency tracing, cost attribution
 <tr>
 <td width="50%">
 
-**🤖 Autonomous Agentic Workflow Orchestration**  
+** Autonomous Agentic Workflow Orchestration**  
 Multi-agent systems coordinating tools, state, and human-in-the-loop decision gates for complex enterprise processes.
 
-**🔎 Real-Time Multimodal Recommendation & Ranking**  
+** Real-Time Multimodal Recommendation & Ranking**  
 Search, discovery, and personalization combining embeddings, behavioral signals, and business constraints.
 
-**⚡ Cloud-Native ML Inference Platform**  
+** Cloud-Native ML Inference Platform**  
 Scalable model serving with monitoring, canary rollouts, and production-grade reliability patterns.
 
 </td>
