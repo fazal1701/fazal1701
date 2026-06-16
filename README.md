@@ -1,5 +1,4 @@
-
-## 👋 About
+## About
 
 I architect **enterprise AI systems** — from retrieval-augmented intelligence layers to autonomous agent orchestration that ship to production with measurable business impact.
 
@@ -9,7 +8,7 @@ I specialize in translating complex AI capabilities into **scalable, observable,
 
 ---
 
-## ⭐ Featured Expertise
+## Featured Expertise
 
 <table>
 <tr>
