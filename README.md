@@ -236,7 +236,6 @@ OCR, extraction, validation, and human-in-the-loop review for unstructured docum
 ## Certifications
 
 <div align="center">
-
 </div>
 
 ---
