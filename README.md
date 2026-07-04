@@ -15,14 +15,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fazalbhatti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazalbhatti522@gmail.com)
-[![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/certification/)
-[![AWS ML](https://img.shields.io/badge/AWS-Machine_Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/certification/)
-[![Databricks](https://img.shields.io/badge/Databricks-Data_Engineer-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/learn/training/certification)
-
-<br/>
-
 <img src="https://komarev.com/ghpvc/?username=fazal1701&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
