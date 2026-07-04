@@ -39,8 +39,6 @@ I design and deploy LLM solutions across leading model families, including **Cla
 
 I bridge **technical architecture**, **product strategy**, and **experience design** so AI products are not only built correctly, but adopted, trusted, and scaled across the enterprise.
 
-> Building intelligence layers that enterprises can trust, scale, and adopt.
-
 ---
 
 ## Featured Expertise
