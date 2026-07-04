@@ -237,12 +237,6 @@ OCR, extraction, validation, and human-in-the-loop review for unstructured docum
 
 <div align="center">
 
-| Certification | Provider |
-|:---|:---|
-| **AWS Certified Solutions Architect Associate** | Amazon Web Services |
-| **AWS Certified Machine Learning Associate** | Amazon Web Services |
-| **Databricks Certified Data Engineer Associate** | Databricks |
-
 </div>
 
 ---
